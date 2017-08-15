@@ -1,6 +1,5 @@
 <resources>
-
     <string name="app_name">BootcampLocator</string>
     <string name="google_api_key">AIzaSyBOyYxt4CnoRPojU8K1gA9dmxQNk08i77A </string>
-
+    <string name="code"> Enter Code</string>
 </resources>
